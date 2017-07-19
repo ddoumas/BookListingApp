@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookListingApp</string>
+    <string name="search">Search for a book</string>
+    <string name="button_name">Search</string>
+    <string name="empty_view_title_text"></string>
+
+    <string name="empty_view_subtitle_text"></string>
+</resources>
